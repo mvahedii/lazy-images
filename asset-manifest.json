@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lazy-images/static/css/main.6a100573.chunk.css",
+    "main.js": "/lazy-images/static/js/main.cb504bc7.chunk.js",
+    "main.js.map": "/lazy-images/static/js/main.cb504bc7.chunk.js.map",
+    "runtime-main.js": "/lazy-images/static/js/runtime-main.1b8f90e4.js",
+    "runtime-main.js.map": "/lazy-images/static/js/runtime-main.1b8f90e4.js.map",
+    "static/js/2.40b21ab4.chunk.js": "/lazy-images/static/js/2.40b21ab4.chunk.js",
+    "static/js/2.40b21ab4.chunk.js.map": "/lazy-images/static/js/2.40b21ab4.chunk.js.map",
+    "index.html": "/lazy-images/index.html",
+    "precache-manifest.334603cb91ac8687cb2e2fa9fa12545f.js": "/lazy-images/precache-manifest.334603cb91ac8687cb2e2fa9fa12545f.js",
+    "service-worker.js": "/lazy-images/service-worker.js",
+    "static/css/main.6a100573.chunk.css.map": "/lazy-images/static/css/main.6a100573.chunk.css.map",
+    "static/js/2.40b21ab4.chunk.js.LICENSE.txt": "/lazy-images/static/js/2.40b21ab4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b8f90e4.js",
+    "static/js/2.40b21ab4.chunk.js",
+    "static/css/main.6a100573.chunk.css",
+    "static/js/main.cb504bc7.chunk.js"
+  ]
+}
